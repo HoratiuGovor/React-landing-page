@@ -1,0 +1,25 @@
+.tabs {
+    background: #3c3c3c;
+    color:#ffffff;
+}
+.tabsStyles {
+    width: '100%';
+    display: 'none';
+    alignItems: 'center';
+    justifyContent: 'center';
+    background: '#2f22e5';
+}
+.tabItemStyles {
+    position: 'relative';
+    display: 'block';
+    background: 'red';
+    borderRadius: '30px';
+    textAlign: 'center';
+    transition: 'all .5s';
+    padding: '10px 15px';
+    color: '#555555';
+    height: 'auto';
+    opacity: '1';
+    margin: '10px 0';
+    float: 'none';
+}
